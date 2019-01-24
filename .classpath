@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="bibliotecas/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jcalendar-1.3.3.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/mysql-connector-java-5.1.47-bin.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/servlet.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="dist/lib/jcalendar-1.3.3.jar"/>
+	<classpathentry kind="lib" path="dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="dist/lib/swing-layout-1.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rodrigofranco/Downloads/jfreechart-1.0.19/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rodrigofranco/Downloads/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rodrigofranco/Downloads/jfreechart-1.0.19/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rodrigofranco/Downloads/jfreechart-1.0.19/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/rodrigofranco/Downloads/easy-poi-master.zip"/>
+	<classpathentry kind="lib" path="C:/Users/rodrigofranco/Downloads/poi-src-4.0.0-20180907.zip"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
